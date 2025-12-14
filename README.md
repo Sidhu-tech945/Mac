@@ -1,3 +1,1 @@
 # Mac
-# Springer
-# Spool
